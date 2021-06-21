@@ -25,4 +25,5 @@
 hs_err_pid*
 
 # Folder
-tarjet/
+target/*
+cucumber-java-selenium.iml
